@@ -137,7 +137,7 @@ footer {
 }
 
 .page_top {
-    background-image: url("../img/header_bg.png");
+    background-image: url("header_bg.png");
     background-size: cover;
     height: 900px;
     background-repeat: no-repeat;
@@ -184,7 +184,7 @@ footer {
 }
 
 .education_bg {
-    background-image: url("../img/education_bg.png");
+    background-image: url("education_bg.png");
     background-size: cover;
     background-repeat: no-repeat;
 }

@@ -1,0 +1,40 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #4A4A4A;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 200
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 200;
+    color: #9B9B9B;
+}
+
+main {
+    padding-top: 22em;
+}
+
+footer {
+    padding-top: 20em;
+}
+
+img {
+    padding-left: 1.7em;
+}
+
+.icons {
+    padding-right: 6em;
+}
+
+.email {
+    padding-left: 6em;
+}
